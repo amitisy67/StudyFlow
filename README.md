@@ -1,2 +1,1 @@
-# pomoro-study-helper.
-It's a pomoro timer which helps with studying 
+I created StudyFlow to make studying more organized and manageable. This project uses the Pomodoro technique to help users focus, track their learning progress, and develop better study habits while practicing Python development.
